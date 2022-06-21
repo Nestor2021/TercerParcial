@@ -1,0 +1,3 @@
+El campo "CAPACIDAD" es de tipo entero "int";
+
+Gracias por la atencion , Benciones!!!
