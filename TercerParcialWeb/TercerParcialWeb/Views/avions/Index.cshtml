@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TercerParcialWeb.Models.avion>
+
+@{
+    ViewBag.Title = "Lista de Aviones registrados";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Registrar un nuevo Avion", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreAvion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.capacidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.descripcion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreAvion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.capacidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descripcion)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdAvion }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdAvion }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdAvion })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,17 @@
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\WindowsFormsAeropuerto.exe.config
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\WindowsFormsAeropuerto.exe
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\WindowsFormsAeropuerto.pdb
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\EntityFramework.dll
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\EntityFramework.xml
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.csproj.AssemblyReference.cache
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.Form1.resources
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.Properties.Resources.resources
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.csproj.GenerateResource.cache
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.csproj.CoreCompileInputs.cache
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.csproj.CopyComplete
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.exe
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.pdb
+C:\Users\ns_al\Documentos\GitHub\TercerParcial\WindowsFormsAeropuerto\WindowsFormsAeropuerto\obj\Debug\WindowsFormsAeropuerto.Presentacion.frmNuevo.resources
